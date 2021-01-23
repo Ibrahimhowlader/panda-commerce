@@ -1,4 +1,4 @@
-
+/* carousel slider Start  */
 .container{
     margin-bottom: 100px;
 }
@@ -21,3 +21,66 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+/* carousel slider End  */
+
+
+/* categories Section start */
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 120px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat1{
+    background-color: #ff136f;
+}
+.cat2{
+    background-color: orange;
+}
+.cat3{
+    background-color: blue;
+}
+
+/* categories Section End */
+
+
+/* Shoes section start */
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+
+/* Shoes section End */
+
+
+
+/* Backpack section Start */
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+
+}
+/* Backpack section End */
+
+#Subscribe{
+    height: 300px;
+}
+#Subscribe h6{
+    color: grey;
+}
+.form-control{
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+footer{
+    text-align: center;
+}
+
